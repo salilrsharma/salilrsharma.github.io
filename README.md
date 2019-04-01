@@ -1,2 +1,2 @@
 # salilrsharma.github.io
-Personal website
+Personal website hosted with github pages at salilsharma.com
