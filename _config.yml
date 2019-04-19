@@ -1,2 +1,4 @@
 name: Salil Sharma
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
