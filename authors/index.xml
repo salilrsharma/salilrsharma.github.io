@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Salil Sharma</title>
+    <link>https://salilrsharma.github.io/authors/</link>
+    <description>Recent content in Authors on Salil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Salil Sharma</copyright>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://salilrsharma.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jason So</title>
+      <link>https://salilrsharma.github.io/authors/jason-so/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/authors/jason-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonas Luessmann</title>
+      <link>https://salilrsharma.github.io/authors/jonas-luessmann/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/authors/jonas-luessmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salil Sharma</title>
+      <link>https://salilrsharma.github.io/authors/salil-sharma/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/authors/salil-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kay Axhausen</title>
+      <link>https://salilrsharma.github.io/authors/kay-axhausen/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/authors/kay-axhausen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>https://salilrsharma.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
