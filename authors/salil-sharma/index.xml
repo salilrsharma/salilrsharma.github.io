@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
-    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salilrsharma.github.io/authors/salil-sharma/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deriving on-trip route choices of truck drivers by utilizing Bluetooth data, loop detector data and variable message sign data</title>
+      <link>https://salilrsharma.github.io/publication/sharma2019mtits/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilrsharma.github.io/publication/sharma2019mtits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Controller Independent Software-in-the-Loop Approach to Evaluate Rule-Based Traffic Signal Retiming Strategy by Utilizing Floating Car Data</title>
