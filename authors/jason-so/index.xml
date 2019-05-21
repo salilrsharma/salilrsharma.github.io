@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason So on Salil Sharma</title>
-    <link>https://salilrsharma.github.io/authors/jason-so/</link>
+    <link>https://salilsharma.com/authors/jason-so/</link>
     <description>Recent content in Jason So on Salil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
     <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://salilrsharma.github.io/authors/jason-so/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salilsharma.com/authors/jason-so/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Controller Independent Software-in-the-Loop Approach to Evaluate Rule-Based Traffic Signal Retiming Strategy by Utilizing Floating Car Data</title>
-      <link>https://salilrsharma.github.io/publication/sharma2018its/</link>
+      <link>https://salilsharma.com/publication/sharma2018its/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://salilrsharma.github.io/publication/sharma2018its/</guid>
+      <guid>https://salilsharma.com/publication/sharma2018its/</guid>
       <description></description>
     </item>
     
