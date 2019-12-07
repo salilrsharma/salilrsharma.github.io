@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hans van Lint on Salil Sharma</title>
+    <title>Hans Van Lint on Salil Sharma</title>
     <link>https://salilsharma.com/authors/hans-van-lint/</link>
-    <description>Recent content in Hans van Lint on Salil Sharma</description>
+    <description>Recent content in Hans Van Lint on Salil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salilsharma.com/authors/hans-van-lint/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evaluating Traffic Efficiency and Safety by Varying Truck Platoon Characteristics in a Critical Traffic Situation </title>
+      <link>https://salilsharma.com/publication/sharma2020platoontrb/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2020platoontrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic and Tactical Guidance for the Connected and Autonomous Vehicle Future</title>
+      <link>https://salilsharma.com/publication/sharma2020mlctrb/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2020mlctrb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deriving on-trip route choices of truck drivers by utilizing Bluetooth data, loop detector data and variable message sign data</title>

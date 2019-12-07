@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salilsharma.com/authors/salil-sharma/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evaluating Traffic Efficiency and Safety by Varying Truck Platoon Characteristics in a Critical Traffic Situation </title>
+      <link>https://salilsharma.com/publication/sharma2020platoontrb/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2020platoontrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic and Tactical Guidance for the Connected and Autonomous Vehicle Future</title>
+      <link>https://salilsharma.com/publication/sharma2020mlctrb/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2020mlctrb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Controller Independent Software-in-the-Loop Approach to Evaluate Rule-Based Traffic Signal Retiming Strategy by Utilizing Floating Car Data</title>
