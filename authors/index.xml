@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salilsharma.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gerdien Klunder</title>
-      <link>https://salilsharma.com/authors/gerdien-klunder/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://salilsharma.com/authors/gerdien-klunder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hans Van Lint</title>
+      <title>Hans van Lint</title>
       <link>https://salilsharma.com/authors/hans-van-lint/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salilsharma.com/authors/hans-van-lint/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Lóránt Tavasszy</title>
       <link>https://salilsharma.com/authors/l%C3%B3r%C3%A1nt-tavasszy/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salilsharma.com/authors/l%C3%B3r%C3%A1nt-tavasszy/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title>Maaike Snelder</title>
       <link>https://salilsharma.com/authors/maaike-snelder/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salilsharma.com/authors/maaike-snelder/</guid>
       <description></description>
@@ -51,16 +42,25 @@
     <item>
       <title>Salil Sharma</title>
       <link>https://salilsharma.com/authors/salil-sharma/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salilsharma.com/authors/salil-sharma/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Gerdien Klunder</title>
+      <link>https://salilsharma.com/authors/gerdien-klunder/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/authors/gerdien-klunder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Timo Faber</title>
       <link>https://salilsharma.com/authors/timo-faber/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salilsharma.com/authors/timo-faber/</guid>
       <description></description>
