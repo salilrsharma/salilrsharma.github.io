@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Salil Sharma</title>
+    <link>https://salilsharma.com/project/</link>
+    <description>Recent content in Projects on Salil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Salil Sharma</copyright>
+    
+	<atom:link href="https://salilsharma.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ToGRIP</title>
+      <link>https://salilsharma.com/project/togrip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/project/togrip/</guid>
+      <description>Reliable and predictable travel times, waiting times and handling times are essential for road hauliers, shippers and terminals, but not guaranteed. In this project, logistics processes and traffic management are analyzed in an integrated manner on the basis of large amounts of traffic data and logistical data to detect inefficiencies and to understand the potential of a combination of logistical and traffic management measures. An integral logistics and traffic management model will also be developed to be able to deploy the measures as focused as possible.</description>
+    </item>
+    
+  </channel>
+</rss>
