@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Papamichail on Salil Sharma</title>
+    <link>https://salilsharma.com/authors/ioannis-papamichail/</link>
+    <description>Recent content in Ioannis Papamichail on Salil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Salil Sharma</copyright>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://salilsharma.com/authors/ioannis-papamichail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Multi-Class Lane-Changing Advisory System for Freeway Merging Sections</title>
+      <link>https://salilsharma.com/publication/sharma2021ifaccts/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2021ifaccts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

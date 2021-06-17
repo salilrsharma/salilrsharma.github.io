@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Salil Sharma</copyright>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salilsharma.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Multi-Class Lane-Changing Advisory System for Freeway Merging Sections</title>
+      <link>https://salilsharma.com/publication/sharma2021ifaccts/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://salilsharma.com/publication/sharma2021ifaccts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing the role of seaport operations in generating inbound/outbound truck traffic demand and its implications on traffic system</title>
